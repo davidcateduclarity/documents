@@ -6,7 +6,7 @@ Zero has some helper scripts to make it easier if you use it. We will
 use them here.
 
 We can **copy** cshtml and js files from
-**Areas/App/Views/Common/Modals/Empty** folder as a base for a new modal
+**wwwroot/view-resources/Areas/App/Views/Common/Modals/Empty** folder as a base for a new modal
 to **Areas/App/Views/PhoneBook/\_CreatePersonModal.cshtml**.
 
 Copied and modified the view code as shown below
